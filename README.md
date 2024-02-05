@@ -1,6 +1,6 @@
 
 
-<h1>Roll Dice</h1>
+<h1>Quiz Flutter</h1>
 
 <p>This project involves a Flutter-based quiz application where users respond to provided questions. Once all questions are answered, the application displays the overall result, highlighting both correct and incorrect answers to provide users with insights into their quiz performance.</p>
 
