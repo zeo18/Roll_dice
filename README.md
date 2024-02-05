@@ -7,7 +7,7 @@
 
 <h2>Feature</h2>
 <ul>
-  <li>User can roll dice</li>
+  <li>User can Roll Dice</li>
  
 </ul>
 
